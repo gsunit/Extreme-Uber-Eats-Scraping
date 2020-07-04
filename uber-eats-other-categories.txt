@@ -1,47 +1,12 @@
-Indian
-Dominican
-Desserts
-Thai
-Fast Food
-Juice and Smoothies
 New American
-Vegetarian
 Tapioca
 Traditional American
-Comfort Food
-Asian
-Chicken
 Taiwanese
-Chinese
 Bubble Tea
-Burgers
-Coffee and Tea
-Korean
+Dominican
 Southern
-Mexican
-Pizza
-American
-Burritos
-Sandwich
-Donuts
-Pasta
-Kosher
-Tacos
-Japanese
-Bakery
-Cafe
-Sushi
-BBQ
 Kids Friendly
 Halal
-Italian
-Salads
-Breakfast and Brunch
-Deli
-Wraps
-Seafood
-Healthy
-Vegan
 Caribbean
 Wings
 Cupcakes
@@ -55,16 +20,9 @@ Malaysian
 Noodles
 Cantonese
 Rolls
-Gourmet
 Asian Fusion
-Hawaiian
 Filipino
 Rice
-Convenience
-Grocery
-Pastry
-French
-Ice Cream
 Frozen Yogurt
 Belgian
 Cupcakes
@@ -89,4 +47,5 @@ Lamb
 Russian
 Brazilian
 Modern European
-
+Indian Curry
+Ramen
