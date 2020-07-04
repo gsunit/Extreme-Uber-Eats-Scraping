@@ -9,7 +9,6 @@ Pasta
 Burritos
 Sandwich
 Chinese
-Hawaiian
 Desserts
 Thai
 Breakfast and Brunch
@@ -25,7 +24,6 @@ Fast Food
 Donuts
 Italian
 Salads
-Kosher
 Tacos
 Japanese
 Bakery
@@ -33,10 +31,14 @@ Cafe
 Sushi
 BBQ
 Juice and Smoothies
-Gourmet
-French
 Ice Cream
-Convenience
-Grocery
 Pastry
 Vegetarian
+Curry
+Steak
+Latin American
+Asian Fusion
+Noodles
+Wings
+Mediterranean
+Cupcakes
