@@ -1,0 +1,144 @@
+
+city-rest-urls: 35%
+35/100 [3:08:02<5:35:12, 309.42s/it]
+pine-castle-florida: 100%
+89/89 [05:30<00:00, 3.71s/it]
+
+
+pine-hills-florida: 100%
+89/89 [06:05<00:00, 4.11s/it]
+
+
+pinecrest-florida: 100%
+89/89 [06:08<00:00, 4.15s/it]
+
+
+pinellas-park-florida: 100%
+89/89 [07:11<00:00, 4.85s/it]
+
+
+plantation-florida: 100%
+89/89 [06:49<00:00, 4.60s/it]
+
+
+pompano-beach-florida: 100%
+89/89 [07:46<00:00, 5.25s/it]
+
+
+ponte-vedra-beach-florida: 100%
+89/89 [06:01<00:00, 4.06s/it]
+
+
+port-charlotte-florida: 100%
+89/89 [05:54<00:00, 3.98s/it]
+
+
+port-orange-florida: 100%
+89/89 [06:02<00:00, 4.07s/it]
+
+
+port-richey-florida: 100%
+89/89 [05:39<00:00, 3.81s/it]
+
+
+port-st-lucie-florida: 100%
+89/89 [06:32<00:00, 4.42s/it]
+
+
+princeton-florida: 100%
+89/89 [03:48<00:00, 2.57s/it]
+
+
+progress-village-florida: 100%
+89/89 [05:40<00:00, 3.82s/it]
+
+
+redington-beach-florida: 100%
+89/89 [06:19<00:00, 4.27s/it]
+
+
+redington-shores-florida: 100%
+89/89 [07:26<00:00, 5.01s/it]
+
+
+reunion-florida: 100%
+89/89 [04:57<00:00, 3.34s/it]
+
+
+riverview-florida: 100%
+89/89 [05:56<00:00, 4.00s/it]
+
+
+riviera-beach-florida: 100%
+89/89 [06:29<00:00, 4.37s/it]
+
+
+rockledge-florida: 100%
+89/89 [07:04<00:00, 4.77s/it]
+
+
+royal-palm-beach-florida: 100%
+89/89 [04:52<00:00, 3.29s/it]
+
+
+safety-harbor-florida: 100%
+89/89 [08:10<00:00, 5.52s/it]
+
+
+sanford-florida: 100%
+89/89 [06:25<00:00, 4.33s/it]
+
+
+sarasota: 100%
+89/89 [06:30<00:00, 4.39s/it]
+
+
+satellite-beach-florida: 100%
+89/89 [06:15<00:00, 4.22s/it]
+
+
+sea-ranch-lakes-florida: 100%
+89/89 [05:27<00:00, 3.68s/it]
+
+
+seffner-florida: 100%
+89/89 [06:35<00:00, 4.45s/it]
+
+
+Error: HTTP Error 404: Not Found, url: https://www.ubereats.com/location/seminole-florida
+
+siesta-key-florida: 100%
+89/89 [05:34<00:00, 3.76s/it]
+
+
+south-daytona-florida: 100%
+89/89 [06:33<00:00, 4.42s/it]
+
+
+south-miami-florida: 100%
+89/89 [06:49<00:00, 4.60s/it]
+
+
+south-pasadena-florida: 100%
+89/89 [05:43<00:00, 3.86s/it]
+
+
+southwest-ranches-florida: 100%
+89/89 [06:20<00:00, 4.28s/it]
+
+
+spring-hill-florida: 100%
+89/89 [07:48<00:00, 5.26s/it]
+
+
+st-augustine-florida: 100%
+89/89 [06:50<00:00, 4.61s/it]
+
+
+st-cloud-florida: 100%
+89/89 [04:57<00:00, 3.34s/it]
+
+
+st-pete-beach-florida: 57%
+51/89 [04:01<04:35, 7.24s/it]
+
