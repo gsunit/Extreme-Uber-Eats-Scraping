@@ -1,4 +1,4 @@
-# Restaurant-web-scraping
+# Extreme Uber Eats Scraping
 
 #### Script Jupyter Notebooks
  - `UE-cities.ipynb`: Script to fetch city name and urls in which Uber Eats is functional
