@@ -2,13 +2,23 @@
 
 
 ## What does the data look like?
-Good question! I had to sacrifice the head of one my DataFrames for this demonstration, but here you go!
+Good question! I had to sacrifice the head of one my DataFrames (pun intended) for this demonstration, but here you go!
 <p></p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/df_head.png" height="150" /></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/df_head_1.png" height="150" /></kbd>
 <p></p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/df_head_2.png" height="150"" /></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/df_head_2.png" height="150"" /></kbd>
 
-## How would you describe this project?
+## What does the data look like (on a map)?
+Glad you asked! I am aware how beautiful it would look, so I went ahead and marked the restaurants on a Google Map. The screenshots include a zoomed-out view of NYC and another a street-view of NYC.
+<p></p>
+
+
+
+ 
+| NYC Restaurants | NYC Street View |
+| ------------- | ------------- |
+| <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_1.jpg" height="500" /></kbd> | <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_2.jpg" height="500" /></kbd> |
+
 
 ## Step #1 - Gather city names and URLs
 [`cities.ipynb`]() contains the code to fetch names and URLs of each city Uber Eats is operational in USA. As of the July 2020, they were a dozen shy of 33k cities. This first step is crucial as we would later make calls to the every city's page.
@@ -39,11 +49,3 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 
 ## Step #5 - Finally, combine and process the data
 [`post-processing.ipynb`]() contains the code to combine the restaurant details csv of each city, and finally perform processing.
-
-
-#### Data
- - `UE-categories-popular.txt`: poular categories (shortlisted based on the num of restaurants in NY with these tags)
- - `UE-categories-other.txt`: less popular categories (shortlisted based on the num of restaurants in NY with these tags)
- - `UE-categories-all.txt`: combination of `popular` and `other` categories, all categories that I could find (might not be exhaustive)
- - `UE-cities.csv`: exhaustive list of all the cities in which Uber Eats is operational and corresponding urls
-
