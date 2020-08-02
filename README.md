@@ -49,11 +49,3 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 
 ## Step #5 - Finally, combine and process the data
 [`post-processing.ipynb`]() contains the code to combine the restaurant details csv of each city, and finally perform processing.
-
-
-#### Data
- - `UE-categories-popular.txt`: poular categories (shortlisted based on the num of restaurants in NY with these tags)
- - `UE-categories-other.txt`: less popular categories (shortlisted based on the num of restaurants in NY with these tags)
- - `UE-categories-all.txt`: combination of `popular` and `other` categories, all categories that I could find (might not be exhaustive)
- - `UE-cities.csv`: exhaustive list of all the cities in which Uber Eats is operational and corresponding urls
-
