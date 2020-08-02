@@ -3,10 +3,10 @@
 
 ## What does the data look like?
 Good question! I had to sacrifice the head of one my DataFrames for this demonstration, but here you go!
-<p>&nbsp;</p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/df_head.png" /></kbd>
-<p>&nbsp;</p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/df_head_2.png" /></kbd>
+<p></p>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/df_head.png" height="150" /></kbd>
+<p></p>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/df_head_2.png" height="150"" /></kbd>
 
 ## How would you describe this project?
 
