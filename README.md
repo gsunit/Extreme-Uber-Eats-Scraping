@@ -2,7 +2,7 @@
 
 
 ## What does the data look like?
-Good question! I had to sacrifice the head of one my DataFrames for this demonstration, but here you go!
+Good question! I had to sacrifice the head of one my DataFrames (pun intended) for this demonstration, but here you go!
 <p></p>
 <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/df_head_1.png" height="150" /></kbd>
 <p></p>
