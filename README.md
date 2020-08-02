@@ -8,8 +8,7 @@
 
 To shortlist the most popular categories I fetched all the restaurants for NYC (using steps #1 to #5), and stored the no. of restaurants for each category in a dict. Then simply fetch the top 50. Done!
 
-**Yes, I had to assume that other cities would follow suit**
-**And yes, I added a few of my favourite cuisines too :)**
+**Yes, I had to assume that other cities would follow suit. And yes, I added a few of my favourite cuisines too :)**
 
 ## Step #3 - For each city, fetch restaurant URLs
 [`restaurant-urls.ipynb`]() contains the code to fetch urls of all the restuarants in a city. This step is a bit tricky and time-consuming. Uber Eats does not serve you the list of all restaurants on a platter. However, while surfing through their pages, I started observing patterns. So to get an exhaustive list of all restaurants (**quickly**), I came up with this:
@@ -26,7 +25,7 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 ## Step #4 - For each restaurant URL, fetch details
 [`restaurant-detials.ipynb`]() contains the code to fetch details of restaurants. After doing all the hard work, this should be nice and easy! However, some cities can have more than 3000 restaurants. Make sure to parallelize the loop while processing restaurants in a city.
 
-**Word of caution: do not try to make threads for cities once you have parallelized the restaurants. Threads under threads is not a good idea!**
+**Word of caution: Threads under threads is not a good idea! Do not try to make threads for cities once you have parallelized the restaurants.**
 
 ## Step #5 - Finally, combine and process the data
 [`post-processing.ipynb`]() contains the code to combine the restaurant details csv of each city, and finally perform processing.
