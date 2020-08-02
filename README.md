@@ -1,13 +1,13 @@
 # Extreme Uber Eats Scraping
 
-## Step #1 - Gather city names and URLs - `cities.ipynb`
-Script to fetch names and URLs of each city Uber Eats is operational in 
+## Step #1 - Gather city names and URLs
+`cities.ipynb` contains the code to fetch names and URLs of each city Uber Eats is operational in USA. This first step is crucial as we would later make calls to the particular pages
 
-## Step #2 - Gather cuisines and select the popular ones - `sort-categories.ipynb`
-Script to shortlist the most popular cuisines out of the total (200+) tags on Uber Eats
+## Step #2 - Gather cuisines and select the popular ones
+`sort-categories.ipynb` contains the code to shortlist the most popular cuisines out of the total (200+) tags on Uber Eats
 
-## Step #3 - For each city, fetch restaurant URLs - `restaurant-urls.ipynb`
-Script to fetch urls of all restuarants in a city
+## Step #3 - For each city, fetch restaurant URLs
+`restaurant-urls.ipynb` contains the code to fetch urls of all restuarants in a city
 
 ## Step #4 - For each restaurant URL, fetch details - `restaurant-detials.ipynb`
 Script to fetch details of restaurants
