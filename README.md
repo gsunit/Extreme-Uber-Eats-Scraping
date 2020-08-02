@@ -33,7 +33,7 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 **So we would have covered about 90% of the restaurants in just the top 30 cuisines.**
 
 ## Step #4 - For each restaurant URL, fetch details
-[`restaurant-detials.ipynb`]() contains the code to fetch details of restaurants. After doing all the hard work, this should be nice and easy! However, some cities can have more than 3000 restaurants. Make sure to parallelize the loop while processing restaurants in a city.
+[`restaurant-details.ipynb`]() contains the code to fetch details of restaurants. After doing all the hard work, this should be nice and easy! However, some cities can have more than 3000 restaurants. Make sure to parallelize the loop while processing restaurants in a city.
 
 **Word of caution: Threads under threads is not a good idea! Do not try to make threads for cities once you have parallelized the restaurants.**
 
