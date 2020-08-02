@@ -8,7 +8,7 @@
 
 To shortlist the most popular categories I fetched all the restaurants for NYC (using steps #1 to #5), and stored the no. of restaurants for each category in a dict. Then simply fetch the top 50. Done!
 
-*For explanation on why I did it, see step #3.*
+**For explanation on why I did it, see step #3.**
 
 
 ## Step #3 - For each city, fetch restaurant URLs
@@ -21,7 +21,7 @@ To shortlist the most popular categories I fetched all the restaurants for NYC (
 
 Who has that much time? Notice, that for there are hardly any restaurants which have only a single tag.
 
-*So we would have covered about 90% of the restaurants in just the top 30 cuisines.*
+**So we would have covered about 90% of the restaurants in just the top 30 cuisines.**
 
 ## Step #4 - For each restaurant URL, fetch details
 [`restaurant-detials.ipynb`]() contains the code to fetch details of restaurants
