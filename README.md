@@ -17,7 +17,7 @@ Glad you asked! I am aware how beautiful it would look, so I went ahead and mark
  
 | NYC Restaurants | NYC Street View |
 | ------------- | ------------- |
-| <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_1.jpg" height="600" /></kbd> | <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_2.jpg" height="600" /></kbd> |
+| <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_1.jpg" height="500" /></kbd> | <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_2.jpg" height="500" /></kbd> |
 
 
 ## Step #1 - Gather city names and URLs
