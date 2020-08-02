@@ -1,7 +1,12 @@
 # Extreme Uber Eats Scraping
 
+
+## What does the data look like?
+Good question! I had to sacrifice the head of one my DataFrames for this demonstration, but here you go!
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/df_head.png" /></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/df_head_2.png" /></kbd>
+
 ## How would you describe this project?
-T
 
 ## Step #1 - Gather city names and URLs
 [`cities.ipynb`]() contains the code to fetch names and URLs of each city Uber Eats is operational in USA. As of the July 2020, they were a dozen shy of 33k cities. This first step is crucial as we would later make calls to the every city's page.
@@ -32,9 +37,6 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 
 ## Step #5 - Finally, combine and process the data
 [`post-processing.ipynb`]() contains the code to combine the restaurant details csv of each city, and finally perform processing.
-
-## What does the data look like?
-Good question! I had to sacrifice the head of one my DataFrames for this demonstration!
 
 
 #### Data
