@@ -22,13 +22,13 @@ Glad you asked! I am aware how beautiful it would look, so I went ahead and mark
 
 ## Step #1 - Gather city names and URLs
 <p></p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_1.png" height="300" alt="scrape 1"/></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_1.png" height="400" alt="scrape 1"/></kbd>
 <p></p>
 [`cities.ipynb`](https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/notebooks/cities.ipynb) contains the code to fetch names and URLs of each city Uber Eats is operational in USA. As of the July 2020, they were a dozen shy of 33k cities. This first step is crucial as we would later make calls to the every city's page.
 
 ## Step #2 - Gather cuisines and select the popular ones
 <p></p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_2.png" height="300" alt="scrape 2"/></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_2.png" height="500" alt="scrape 2"/></kbd>
 <p></p>
 [`sort-categories.ipynb`]() contains the code to shortlist the most popular cuisines out of the total (200+) tags on Uber Eats. To collect the tags go to [https://www.ubereats.com/location](https://www.ubereats.com/location) and `Ctrl+A` + `Ctrl+C` the categories into a text file. Then read the file using Python, turn `spaces` into `-` and each letter to lowercase.
 
@@ -53,7 +53,7 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 
 ## Step #4 - For each restaurant URL, fetch details
 <p></p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_4.png" height="300" alt="scrape 4"/></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_4.png" height="400" alt="scrape 4"/></kbd>
 <p></p>
 [`restaurant-details.ipynb`](https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/notebooks/restaurant-details.ipynb) contains the code to fetch details of restaurants. After doing all the hard work, this should be nice and easy! However, some cities can have more than 3000 restaurants. Make sure to parallelize the loop while processing restaurants in a city.
 
@@ -63,5 +63,5 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 [`post-processing.ipynb`](https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/notebooks/post-processing.ipynb) contains the code to combine the restaurant details csv of each city, and finally perform processing.
 
 <p></p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_6.png" height="300" alt="scrape 6"/></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_6.png" height="550" alt="scrape 6"/></kbd>
 <p></p>
