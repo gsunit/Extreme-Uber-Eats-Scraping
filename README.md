@@ -1,5 +1,15 @@
 # Extreme Uber Eats Scraping
 
+## What data are we extracting?
+Here is a screenshot of one of the Uber Eats restaurants.
+
+<p></p>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/rest_detail_1.png" width="700" alt="Rest detials 1"/></kbd>
+<p></p>
+
+<p></p>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/rest_detail_2.png" width="350" alt="Rest details 2"/></kbd>
+<p></p>
 
 ## What does the scraped data look like?
 Good question! I had to sacrifice the head of one my DataFrames (pun intended) for this demonstration, but here you go!
