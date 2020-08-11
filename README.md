@@ -63,5 +63,5 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 [`post-processing.ipynb`](https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/notebooks/post-processing.ipynb) contains the code to combine the restaurant details csv of each city, and finally perform processing.
 
 <p></p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_6.png" height="550" alt="scrape 6"/></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_6.png" width="750" alt="scrape 6"/></kbd>
 <p></p>
