@@ -20,14 +20,14 @@ Glad you asked! I am aware how beautiful it would look, so I went ahead and mark
 | <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_1.jpg" height="700" alt="app ss 1"/></kbd> | <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_2.jpg" height="700" alt="app ss 2"/></kbd> |
 
 
-## Step #1 - Gather city names and URLs
+## Step #1 - Enlist all Uber Eats cities
 <p></p>
 <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_1.png" height="400" alt="scrape 1"/></kbd>
 <p></p>
 
 [`cities.ipynb`](https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/notebooks/cities.ipynb) contains the code to fetch names and URLs of each city Uber Eats is operational in USA. As of the July 2020, they were a dozen shy of 33k cities. This first step is crucial as we would later make calls to the every city's page.
 
-## Step #2 - Gather cuisines and select the popular ones
+## Step #2 - Fetch and shortlist cuisines
 <p></p>
 <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_2.png" height="500" alt="scrape 2"/></kbd>
 <p></p>
@@ -38,7 +38,7 @@ To shortlist the most popular categories I fetched all the restaurants for NYC (
 
 **Yes, I had to assume that other cities would follow suit. And yes, I added a few of my favourite cuisines too :)**
 
-## Step #3 - For each city, fetch restaurant URLs
+## Step #3 - Scrape restaurant URLs for each city
 <p></p>
 <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_3.png" height="300" alt="scrape 3"/></kbd>
 <p></p>
@@ -54,7 +54,7 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 
 **So we would have covered about 90% of the restaurants in just the top 30 cuisines.**
 
-## Step #4 - For each restaurant URL, fetch details
+## Step #4 - Fetch details for each restaurant URL
 <p></p>
 <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_4.png" height="400" alt="scrape 4"/></kbd>
 <p></p>
@@ -67,5 +67,5 @@ Who has that much time? Notice, that for there are hardly any restaurants which 
 [`post-processing.ipynb`](https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/notebooks/post-processing.ipynb) contains the code to combine the restaurant details csv of each city, and finally perform processing.
 
 <p></p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_6.png" width="750" alt="scrape 6"/></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_6.png" width="800" alt="scrape 6"/></kbd>
 <p></p>
