@@ -1,10 +1,21 @@
 # Extreme Uber Eats Scraping
 
+## Folder description
+ - `/archive` contains data and scripts for reference purposes only while the project was being worked on
+ - `/assets` contains image assets for README
+ - `/notebooks` contains all the scripts used for scraping in the form of Jupyter Notebooks
+ - `/scraped-data` contains all the scraped data city-wise
+    - `/scraped-data/restaurant-categories` contains the stored category (cuisine) info for Uber Eats
+    - `/scraped-data/resturant-urls` contains the files corresponding to each city which store the URLs of all restaurants in that city
+    - `/scraped-data/restaurant-details` contains the files correspionding to each city which store the complete data of all restaurants in that city
+    - `/scraped-data/UE-cities.csv` contains the list of all cities and corresponding URLs in which Uber Eats is operational
+ - `/1.5M-Uber-Eats-Restaurants.zip` contains the zipped csv file which is the collection of all the data from `/scraped-data/restaurant-details` into a single csv
+
 ## What data are we extracting?
 Here is a screenshot of one of the Uber Eats restaurants.
 
 <p></p>
-<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/rest_detail_1.png" width="700" alt="Rest detials 1"/></kbd>
+<kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/rest_detail_1.png" width="700" alt="Rest details 1"/></kbd>
 <p></p>
 
 <p></p>
