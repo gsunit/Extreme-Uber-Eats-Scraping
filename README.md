@@ -29,18 +29,6 @@ Good question! I had to sacrifice the head of one my DataFrames (pun intended) f
 <p></p>
 <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/df_head_2.png" height="150" alt="data ss 2"/></kbd>
 
-## What does the data look like (on a map)?
-Glad you asked! I am aware how beautiful it would look, so I went ahead and marked the restaurants on a Google Map. The screenshots include a zoomed-out view of NYC and another a street-view of NYC.
-<p></p>
-
-
-
- 
-| NYC Restaurants | NYC Street View |
-| ------------- | ------------- |
-| <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_1.jpg" height="700" alt="app ss 1"/></kbd> | <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/app_ss_2.jpg" height="700" alt="app ss 2"/></kbd> |
-
-
 ## Step #1 - Enlist all Uber Eats cities
 <p></p>
 <kbd><img src="https://github.com/gsunit/Extreme-Uber-Eats-Scraping/blob/master/assets/scrape_1.png" height="400" alt="scrape 1"/></kbd>
